@@ -1,10 +1,10 @@
-# ChatGPT Clone
+# IntelliChat AI
 
-A modern AI-powered chat application inspired by ChatGPT, built to deliver real-time conversational experiences with a clean and responsive user interface.
+A modern AI-powered conversational platform designed to deliver smart, real-time, and human-like interactions through a sleek and responsive interface.
 
-Developed using modern full-stack technologies, the project focuses on seamless messaging, fast performance, scalable architecture, and intuitive user experience.
+Built with modern full-stack technologies, the application focuses on seamless communication, fast performance, scalable architecture, and an engaging user experience across all devices.
 
-Built with strong attention to frontend design, API integration, state management, and responsive layouts to create a smooth cross-device chatting experience.
+Developed with strong attention to clean UI design, efficient state management, secure API integration, and smooth real-time interactions.
 
 ### Tech Stack
 
@@ -14,4 +14,4 @@ Built with strong attention to frontend design, API integration, state managemen
 
 ---
 
-A practical project showcasing modern full-stack development, real-time UI architecture, API handling, and scalable application design.
+A practical project showcasing modern full-stack engineering, AI integration, responsive design systems, and scalable web application architecture.
