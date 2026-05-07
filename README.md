@@ -16,20 +16,11 @@ React.js • Next.js • JavaScript • Node.js • Express.js • MongoDB • T
 
 ## Featured Projects
 
-### IntelliChat AI
-AI-powered conversational platform
-
-### Prime Energy Website
-Animated modern product website
-
-### Voice AI Assistant
-Voice-controlled smart assistant
-
-### Music Streaming Web App
-Interactive music player
-
-### Gate Pass Management System
-Full-stack admin dashboard
+- **IntelliChat AI** — AI-powered conversational platform  
+- **Prime Energy Website** — Animated modern product website  
+- **Voice AI Assistant** — Voice-controlled smart assistant  
+- **Music Streaming Web App** — Interactive music player  
+- **Gate Pass Management System** — Full-stack admin dashboard  
 
 ---
 
