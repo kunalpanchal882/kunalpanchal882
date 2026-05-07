@@ -1,17 +1,25 @@
-# IntelliChat AI
+Kunal Panchal
+Full-Stack Developer • AI Web App Builder
+Passionate developer focused on building modern, scalable, and responsive web applications with clean UI/UX and real-world functionality.
+Skilled in creating AI-powered platforms, interactive dashboards, modern web experiences, and full-stack applications using industry-standard technologies.
+Tech Stack
+React.js • Next.js • JavaScript • Node.js • Express.js • MongoDB • Tailwind CSS • Sass • Material UI • REST APIs • Git • GitHub • Firebase • Postman • Vercel
+Featured Projects
 
-A modern AI-powered conversational platform designed to deliver smart, real-time, and human-like interactions through a sleek and responsive interface.
 
-Built with modern full-stack technologies, the application focuses on seamless communication, fast performance, scalable architecture, and an engaging user experience across all devices.
+IntelliChat AI — AI-powered conversational platform
 
-Developed with strong attention to clean UI design, efficient state management, secure API integration, and smooth real-time interactions.
 
-### Tech Stack
+Prime Energy Website — Animated modern product website
 
-**Frontend:** React, Vite, Tailwind CSS  
-**Backend:** Node.js / Express  
-**AI Integration:** OpenAI API  
 
----
+Voice AI Assistant — Voice-controlled smart assistant
 
-A practical project showcasing modern full-stack engineering, AI integration, responsive design systems, and scalable web application architecture.
+
+Music Streaming Web App — Interactive music player
+
+
+Gate Pass Management System — Full-stack admin dashboard
+
+
+Building fast, scalable, and engaging digital experiences with modern web technologies.
